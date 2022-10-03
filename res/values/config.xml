@@ -29,7 +29,7 @@
     <bool name="full_bar_search_view">true</bool>
 
     <!-- Indicates if showing as search bar design -->
-    <bool name="show_search_bar">false</bool>
+    <bool name="show_search_bar">true</bool>
 
     <string name="default_root_uri" translatable="false">content://com.android.providers.downloads.documents/root/downloads</string>
     <!-- The value is used in sorting process on Drawer menu. If the root's package name
